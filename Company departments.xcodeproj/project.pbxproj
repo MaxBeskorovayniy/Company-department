@@ -23,6 +23,7 @@
 		9E3C32AA294226F600DCF632 /* ChooseClothesSelectedCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E3C32A9294226F600DCF632 /* ChooseClothesSelectedCell.swift */; };
 		9E3C32AF29423F3200DCF632 /* ClothesListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E3C32AE29423F3200DCF632 /* ClothesListViewController.swift */; };
 		9E3C32B22942408500DCF632 /* ClothesListBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E3C32B12942408500DCF632 /* ClothesListBuilder.swift */; };
+		9E59F1682AE69232007C6ECA /* File123.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E59F1672AE69232007C6ECA /* File123.swift */; };
 		9E5B72D828772AD500B4DE37 /* EmployeesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E5B72D728772AD500B4DE37 /* EmployeesViewController.swift */; };
 		9E5B72DA28772AFE00B4DE37 /* EmployeesProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E5B72D928772AFE00B4DE37 /* EmployeesProtocols.swift */; };
 		9E5B72DC28772B3A00B4DE37 /* EmployeesBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E5B72DB28772B3A00B4DE37 /* EmployeesBuilder.swift */; };
@@ -82,6 +83,7 @@
 		9E3C32A9294226F600DCF632 /* ChooseClothesSelectedCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseClothesSelectedCell.swift; sourceTree = "<group>"; };
 		9E3C32AE29423F3200DCF632 /* ClothesListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClothesListViewController.swift; sourceTree = "<group>"; };
 		9E3C32B12942408500DCF632 /* ClothesListBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClothesListBuilder.swift; sourceTree = "<group>"; };
+		9E59F1672AE69232007C6ECA /* File123.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File123.swift; sourceTree = "<group>"; };
 		9E5B72D728772AD500B4DE37 /* EmployeesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeesViewController.swift; sourceTree = "<group>"; };
 		9E5B72D928772AFE00B4DE37 /* EmployeesProtocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeesProtocols.swift; sourceTree = "<group>"; };
 		9E5B72DB28772B3A00B4DE37 /* EmployeesBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeesBuilder.swift; sourceTree = "<group>"; };
@@ -198,6 +200,7 @@
 				9EDF7D27286F1BD700148F13 /* DepartmensViewController.swift */,
 				9E24ADA32872FA320025423B /* DepartmenCell.swift */,
 				9EA2446A288ADC55006EDA52 /* PetDetails */,
+				9E59F1672AE69232007C6ECA /* File123.swift */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -621,6 +624,7 @@
 				9E3C32AF29423F3200DCF632 /* ClothesListViewController.swift in Sources */,
 				9E6028832940E55E003C2DA5 /* ChooseClothesViewController+TableData.swift in Sources */,
 				9ECD812729436E6000F5A934 /* ClothesListCell.swift in Sources */,
+				9E59F1682AE69232007C6ECA /* File123.swift in Sources */,
 				9EDC89E6287DADA20027DF27 /* CellViewModel.swift in Sources */,
 				9EE3EFF32965ACB700EA10EA /* StarRatingViewController.swift in Sources */,
 				9E24ADB328732E7F0025423B /* DepartmentModel.swift in Sources */,
