@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.7.1)
+  - AlamofireImage (4.2.0):
+    - Alamofire (~> 5.4)
+  - Connectivity (6.0.0)
+  - Cosmos (23.0.0)
+  - SnapKit (5.6.0)
+  - TinyConstraints (4.0.2)
+
+DEPENDENCIES:
+  - AlamofireImage (~> 4.1)
+  - Connectivity
+  - Cosmos
+  - SnapKit (~> 5.6.0)
+  - TinyConstraints
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - Connectivity
+    - Cosmos
+    - SnapKit
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  AlamofireImage: 34a2d90b0e5fe6a5605f85ae4b7b01e784c60192
+  Connectivity: 1919d4dc94c63514a2ec0574336f2e83857a20a8
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  TinyConstraints: 7b7ccc0c485bb3bb47082138ff28bc33cd49897f
+
+PODFILE CHECKSUM: 573d1cef2d6e58ebfd1ade26332e043a875e7579
+
+COCOAPODS: 1.11.3
